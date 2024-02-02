@@ -29,7 +29,7 @@ colorama==0.3.9
 comtypes==1.1.4
 constantly==15.1.0
 contextlib2==0.5.5
-cryptography==2.2.2
+cryptography==42.0.2
 cycler==0.10.0
 Cython==0.28.2
 cytoolz==0.9.0.1
@@ -122,7 +122,7 @@ pathtools==0.1.2
 patsy==0.5.0
 pep8==1.7.1
 pickleshare==0.7.4
-Pillow==5.2.0
+Pillow==10.2.0
 pkginfo==1.4.2
 pluggy==0.6.0
 ply==3.11
