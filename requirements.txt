@@ -61,7 +61,7 @@ h5py==2.8.0
 heapdict==1.0.0
 html5lib==1.0.1
 hyperlink==18.0.0
-idna==2.6
+idna==3.7
 imageio==2.3.0
 imagesize==1.0.0
 incremental==17.5.0
