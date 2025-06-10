@@ -37,7 +37,7 @@ dask==0.17.5
 datashape
 decorator==4.3.0
 distributed==1.21.8
-Django==2.0.2
+Django==4.2.22
 django-ckeditor==5.6.1
 django-filter==2.0.0
 django-geojson==2.11.0
@@ -78,7 +78,7 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
-jupyter-core==4.4.0
+jupyter-core==5.8.0
 jupyterlab==0.32.1
 jupyterlab-launcher==0.10.5
 kiwisolver==1.0.1
