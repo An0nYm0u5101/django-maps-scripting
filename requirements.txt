@@ -36,7 +36,7 @@ cytoolz==0.9.0.1
 dask==0.17.5
 datashape
 decorator==4.3.0
-distributed==1.21.8
+distributed==2026.1.0
 Django==2.0.2
 django-ckeditor==5.6.1
 django-filter==2.0.0
@@ -132,7 +132,7 @@ prompt-toolkit==1.0.15
 psutil==5.4.5
 psycopg2==2.7.5
 py==1.5.3
-pyasn1==0.4.4
+pyasn1==0.6.2
 pyasn1-modules==0.2.2
 pycodestyle==2.4.0
 pycosat==0.6.3
